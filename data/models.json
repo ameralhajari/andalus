@@ -1,0 +1,72 @@
+{
+  "BMW": [
+    "X1", "X3", "X5", "X7",
+    "3 Series", "5 Series", "7 Series",
+    "M3", "M5", "M8",
+    "i3", "i4", "iX"
+  ],
+  "Mercedes-Benz": [
+    "A-Class", "C-Class", "E-Class", "S-Class",
+    "GLC", "GLE", "GLS",
+    "AMG GT", "EQS", "EQE"
+  ],
+  "Audi": [
+    "A3", "A4", "A6", "A8",
+    "Q3", "Q5", "Q7", "Q8",
+    "RS3", "RS5", "RS7",
+    "e-tron"
+  ],
+  "Toyota": [
+    "Camry", "Corolla", "RAV4", "Highlander",
+    "Tacoma", "Tundra", "Sienna",
+    "Supra", "GR86"
+  ],
+  "Ford": [
+    "F-150", "Explorer", "Escape", "Bronco",
+    "Mustang", "Edge", "Ranger"
+  ],
+  "Lexus": [
+    "ES", "LS", "RX", "GX",
+    "LX", "NX", "RC"
+  ],
+  "Chevrolet": [
+    "Silverado", "Tahoe", "Suburban", "Equinox",
+    "Malibu", "Camaro", "Corvette"
+  ],
+  "Honda": [
+    "Civic", "Accord", "CR-V", "Pilot",
+    "Ridgeline", "Odyssey"
+  ],
+  "Nissan": [
+    "Altima", "Maxima", "Rogue", "Titan",
+    "Pathfinder", "Murano", "GT-R"
+  ],
+  "Hyundai": [
+    "Elantra", "Sonata", "Tucson", "Santa Fe",
+    "Kona", "Palisade"
+  ],
+  "Kia": [
+    "Forte", "K5", "Sportage", "Sorento",
+    "Telluride", "Stinger"
+  ],
+  "Volkswagen": [
+    "Jetta", "Passat", "Tiguan", "Atlas",
+    "Golf", "ID.4"
+  ],
+  "Porsche": [
+    "911", "Cayenne", "Macan", "Panamera",
+    "Taycan", "718 Boxster"
+  ],
+  "Land Rover": [
+    "Range Rover", "Discovery", "Defender",
+    "Range Rover Sport", "Range Rover Evoque"
+  ],
+  "Jeep": [
+    "Wrangler", "Grand Cherokee", "Cherokee",
+    "Renegade", "Gladiator"
+  ],
+  "Tesla": [
+    "Model 3", "Model S", "Model X", "Model Y",
+    "Cybertruck"
+  ]
+}
